@@ -1,0 +1,18 @@
+.emojisC {
+  justify-content: center;
+  display: grid;
+  grid-template-columns: 100px 100px 100px 100px 100px 100px;
+  gap: 3px;
+  background-color: #b9defc;
+  padding: 10px;
+}
+
+.emojisC span {
+  background-color: rgb(255, 255, 255);
+  border: 1px solid black;
+  text-align: center;
+  width: 70px;
+  cursor: pointer;
+  font-size: 36px;
+ 
+}
